@@ -1,0 +1,9 @@
+html, body{
+    font-family: 'Open-sans', arial, sans-serif;
+    font-size: 16px;
+    background: url(../img/home-bg.svg) no-repeat;
+    background-size: 100% 100%;
+    background-position: center top;
+    background-position-y: -35px;
+    height: 140vh;
+}
